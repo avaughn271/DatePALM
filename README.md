@@ -7,7 +7,7 @@ DatePALM is a program to infer patterns of polygenic selection, including time-v
 
 DatePALM has 3 steps:
 
-## (1) Format GWAS summary statistics (or use the pre-specified summary statistics available in the XXX Directory)
+## (1) Format GWAS summary statistics (or use the pre-specified summary statistics)
 
 
 There are 2 acceptable formats for GWAS metadata, one for analyzing 1 trait at a time and one for jointly analyzing 2 traits.
